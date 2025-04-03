@@ -1,0 +1,23 @@
+{
+  "name": "dd-trace-winston-node-22",
+  "version": "1.0.0",
+  "description": "Repro a dd-trace bug with winston on Node 22",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavaScriptBach/dd-trace-winston-node-22.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JavaScriptBach/dd-trace-winston-node-22/issues"
+  },
+  "homepage": "https://github.com/JavaScriptBach/dd-trace-winston-node-22#readme",
+  "dependencies": {
+    "dd-trace": "^5.45.0",
+    "winston": "^3.17.0"
+  }
+}
